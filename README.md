@@ -8,3 +8,7 @@ A simple chatbot that responds to user inputs based on predefined rules. Using i
 ## Task 2:-
 ### TIC TAC TOE Game :
 Implemented an AI agent that plays the classic game of Tic-Tac-Toe against an human player. I have used algorithm Minimax to make the AI player unbeatable. It gives me understand game theory and basic search algorithms.
+
+## Task 3:-
+### FACE DETECTION AND RECOGNITION :
+Developed an AI application that can detect and recognize faces in images. Used pre-trained face detection modelde ep learning-based face detectors and optionally added face recognition capabilities using techniques like ArcFace.
