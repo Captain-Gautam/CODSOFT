@@ -7,4 +7,4 @@ A simple chatbot that responds to user inputs based on predefined rules. Using i
 
 ## Task 2:-
 ### TIC TAC TOE Game :
-Implemented an AI agent that plays the classic game of Tic-Tac-Toe against an human player. I have used algorithms like Minimax withand without Alpha-Beta Pruning to make the AI player unbeatable. It gives me understand game theory and basic search algorithms.
+Implemented an AI agent that plays the classic game of Tic-Tac-Toe against an human player. I have used algorithm Minimax to make the AI player unbeatable. It gives me understand game theory and basic search algorithms.
